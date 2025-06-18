@@ -1,22 +1,22 @@
-
 # Surface Level Vehicle (SLV)
 
 An autonomous surface water robot designed for environmental monitoring, research, and rescue operations.
 
 ---
 
-## 1. [Overview](#overview)
-## 2. [Our Goals](#our-goals)
-## 3. [What We Currently Use](#what-we-currently-use)
-- [Hardware](#hardware)
-- [Software](#software)
-- [Packages](#packages)
-## 4. [How to Run the Project](#how-to-run-the-project)
-- [Installation](#installation)
-## 5. [Problems Currently Being Faced](#problems-currently-being-faced)
-## 6. [Bill of Materials Required](#bill-of-materials-required)
-## 7. [Future Applications/Features](#future-applicationsfeatures)
-## 8. [References](#references)
+## Table of Contents
+1. [Overview](#overview)
+2. [Our Goals](#our-goals)
+3. [What We Currently Use](#what-we-currently-use)
+    - [Hardware](#hardware)
+    - [Software](#software)
+    - [Packages](#packages)
+4. [How to Run the Project](#how-to-run-the-project)
+    - [Installation](#installation)
+5. [Problems Currently Being Faced](#problems-currently-being-faced)
+6. [Bill of Materials Required](#bill-of-materials-required)
+7. [Future Applications/Features](#future-applicationsfeatures)
+8. [References](#references)
 
 ---
 
@@ -103,4 +103,4 @@ The Surface Level Vehicle (SLV) is an unmanned watercraft designed for surface-l
 
 - Internal project documentation  
 - Arduino & sensor datasheets  
-- Research on autonomous surface vehicles  
+- Research on autonomous surface vehicles
